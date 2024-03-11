@@ -1,2 +1,2 @@
 # git-test
-test git`s using
+It's just a test warehouse
